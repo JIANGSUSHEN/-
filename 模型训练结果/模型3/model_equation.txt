@@ -1,0 +1,2 @@
+Mathematical Model:
+y = 15.0558 + (4.5477)*wechat + (1.6101)*weibo + (-0.0300)*others

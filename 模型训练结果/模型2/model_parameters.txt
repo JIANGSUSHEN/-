@@ -1,0 +1,5 @@
+Learned Parameters (Theta):
+Theta[0]: 14.7793
+Theta[1]: 4.5572
+Theta[2]: 1.4154
+Theta[3]: 0.0516
